@@ -184,6 +184,12 @@ This was one of the most technically complex parts of the app.
   - Current affairs
   - Analytics
 - Effectively replaces **hundreds of pages of physical books** with a structured mobile-first experience
+  
+---
+
+## Live Application
+Google Play Store:  
+http://play.google.com/store/apps/details?id=com.spardhabook.edtechllp
 
 ---
 
