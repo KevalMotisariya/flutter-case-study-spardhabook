@@ -202,3 +202,19 @@ This project demonstrates the ability to:
 - Build scalable, monetized mobile applications for the Indian market
 
 The focus of this case study is **execution, ownership, and product thinking** — not demo-level code.
+
+---
+
+## 🧑‍💻 Author
+
+**Keval Motisariya**  
+Aspiring Full Stack Developer
+- GitHub: https://github.com/KevalMotisariya
+- Portfolio: https://kevalmotisariyadev.lovable.app/
+- LinkedIn: https://www.linkedin.com/in/keval-motisariya/
+- Email: kevalmotisariya225@gmail.com
+- Contact: +91 9023966995
+
+---
+
+⭐ If you like this case-study, consider giving it a star!
